@@ -1,4 +1,4 @@
-JS AMAZONA
+# E-Commerce
 
 1. Create Folder Structure
    1. create root folder as jsamazona
